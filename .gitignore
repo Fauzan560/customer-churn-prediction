@@ -1,0 +1,10 @@
+# Ignore model checkpoints and large data files
+*.pkl
+*.csv
+
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+venv/
+.venv/
+.ipynb_checkpoints/
